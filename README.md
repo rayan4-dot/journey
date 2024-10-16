@@ -24,7 +24,7 @@ This is a web project build with html, css and javascript, contained with few as
 Before you begin, make sure you have the following softwares installed on your machine.
 
 **Git Bash**
-**Gihub**
+**Github**
 **Vs Code**
 
 ## Installation
