@@ -1,53 +1,63 @@
-# Project Name: ListoGo
-================
+# Project Name: listogo
 
 ## Overview
-------------
 
-* Briefly describe the project and its purpose
+This is a web project build with html, css and javascript, contained with few assets we need such as images, logos, etc.
+
 
 ## Features
-------------
 
-* List the key features of your project
+- Modern user interface: Clean and professional design
+- Responsive: This website allows all screens (mobile, tablet, desktop)
+- Easy Customization: Organized project structure for quick and easy modifications.
 
 ## Getting Started
------------------
 
-* Provide instructions on how to get started with your project
+**Git**: Version control system to control and tracking the project.
+**Html**: Hyper text markup language to build the structure of the website.
+**CSS**: Cascading style sheet to design your html website.
+**JavaScrip**: Programing language to add animation to your website.
+
 
 ## Requirements
--------------
 
-* List any dependencies or requirements needed to use your project
+Before you begin, make sure you have the following softwares installed on your machine.
+
+**Git Bash**
+**Gihub**
+**Vs Code**
 
 ## Installation
-------------
 
-* Provide instructions on how to install your project
+1. **Clone the reporsitory**: Open your terminal & run the following command to clone the reporsitory.
+
+    git clone https://github.com/rayan4-dot/journey.git
+  
 
 ## Usage
------
 
-* Provide examples of how to use your project
+**Live Demo**: https://rayan4-dot.github.io/journey/
 
 ## Contributing
-------------
 
-* Provide guidelines on how to contribute to your project
+* Utilisize this & feel free to modify;
+
+    git clone https://github.com/rayan4-dot/journey.git
 
 ## License
--------
 
-* Specify the license under which your project is released
+* This project is an open source, flexible and simple to contribute.
 
 ## Authors
--------
 
-* List the authors of your project
+* This project was created and maintained by Aymane Benhima. You can check more of the work via github (https://github.com/aymanebenhima/STARTER-listogo-v1.0).
 
 ## Acknowledgments
---------------
 
-* Acknowledge any third-party libraries or resources used in your project
------------------------
+In order to enhance the performance, seo and accesibility of the page, we did the following:
+
+* Images converted to webp [e1,banner,b1,c1], the logo stays as it is;
+
+* Modifing fonts link [check 12th line in index.html];
+
+* Color modifying in css file
