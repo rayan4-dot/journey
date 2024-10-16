@@ -25,7 +25,7 @@ Before you begin, make sure you have the following softwares installed on your m
 
 **Git Bash**
 **Github**
-**Vs Code**
+**VsCode**
 
 ## Installation
 
